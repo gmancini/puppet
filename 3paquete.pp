@@ -1,3 +1,0 @@
-package {'mc':
-  ensure => installed,
-}
